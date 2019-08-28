@@ -1,7 +1,0 @@
-.visibledevice {display:none;}
-.visibledesktop {display: block;}
-
-@media (max-width : 420px) {
-    .visibledevice {display:block;}
-    .visibledesktop {display:none;}
-}
