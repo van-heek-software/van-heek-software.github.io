@@ -66,3 +66,8 @@ div.card-adjust {
     flex-direction: column;
     height: 70px;
 }
+
+@media (max-width: 425px)
+.mbr-gallery .mbr-gallery-item--p3, .mbr-gallery .mbr-gallery-item--p2, .mbr-gallery .mbr-gallery-item--p1 {
+    width: 100%;
+}
