@@ -67,7 +67,7 @@ div.card-adjust {
     height: 70px;
 }
 
-@media (max-width: 425px)
-.mbr-gallery .mbr-gallery-item--p3, .mbr-gallery .mbr-gallery-item--p2, .mbr-gallery .mbr-gallery-item--p1 {
-    width: 100%;
+span.mbr-gallery-title {
+    max-height: 100%;
+    overflow: hidden;
 }
